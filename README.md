@@ -4,7 +4,7 @@ A Large Remote Sensing Unlabeled Dataset for Semi-Supervised Oriented Object Det
 
 You can find this dataset in [huggingface.co](https://huggingface.co/datasets/heiyukk/RSUL)
 ## Other Download Links
-If you have trouble in huggingface, the [[BaiduDrive Link]](https://pan.baidu.com/s/1xGeOa_UtZyhvOFaPgZy8mg?pwd=9csr) is also avail.
+If you have trouble in huggingface, the [[BaiduDrive Link]](https://pan.baidu.com/share/init?surl=4H3eMfPpvOxfNTr99d66kw&pwd=wcpp) is also avail.
 
 ## Citation
 
